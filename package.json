@@ -1,0 +1,16 @@
+{
+  "name": "aoj-scraper",
+  "version": "1.0.0",
+  "description": "A javascript based scraper use to get code submissions based on [Aizu Online Judge API Reference](http://developers.u-aizu.ac.jp/index)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
